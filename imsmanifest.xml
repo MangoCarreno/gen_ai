@@ -1,0 +1,123 @@
+<?xml version="1.0" standalone="no" ?><manifest identifier="com.scorm.elucidat.build.66c34414c69c8_1724073058" version="1"
+    xmlns="http://www.imsglobal.org/xsd/imscp_v1p1"
+    xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3"
+    xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3"
+    xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3"
+    xmlns:imsss="http://www.imsglobal.org/xsd/imsss"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:lom="http://ltsc.ieee.org/xsd/LOM"
+    xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd
+                  http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd
+                  http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd
+                  http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd
+                  http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd
+                  http://ltsc.ieee.org/xsd/LOM lom.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <!-- <schemaversion>CAM 1.3</schemaversion> -->
+    <!-- <schemaversion>2004 3rd Edition</schemaversion> -->
+    <!-- <schemaversion>2004 4th Edition</schemaversion> -->
+    <schemaversion>CAM 1.3</schemaversion>
+      </metadata>
+  <organizations default="Elucidat_66c34414c69c8_1724073058">
+    <organization identifier="Elucidat_66c34414c69c8_1724073058">
+      <title>001 - Gen AI: Introduction to Generative AI and Large Language Models - ENT</title>
+      <item identifier="item_66c34414c69c8_1724073058" identifierref="resource_66c34414c69c8_1724073058">
+        <title>001 - Gen AI: Introduction to Generative AI and Large Language Models - ENT</title>
+      </item>
+      <imsss:sequencing>
+        <imsss:controlMode choice="true" flow="true"/>
+        <imsss:objectives> 
+          <imsss:primaryObjective objectiveID = "PRIMARYOBJ" satisfiedByMeasure = "true"> 
+            <imsss:minNormalizedMeasure>0.8</imsss:minNormalizedMeasure> 
+            <imsss:mapInfo targetObjectiveID = "obj_module_1" readNormalizedMeasure = "false" writeSatisfiedStatus = "true" /> 
+          </imsss:primaryObjective> 
+        </imsss:objectives> 
+      </imsss:sequencing>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="resource_66c34414c69c8_1724073058" type="webcontent" adlcp:scormType="sco" href="launch.html">
+      <file href="login.html"/>
+      <file href="pages/655ba56956de7.js"/>
+      <file href="pages/655bbc5ab6f50.js"/>
+      <file href="pages/655ba5696369d.js"/>
+      <file href="pages/655ba5695d09f.js"/>
+      <file href="pages/655ba5696842c.js"/>
+      <file href="pages/655ba56960e06.js"/>
+      <file href="pages/655bbc486d7f2.js"/>
+      <file href="pages/659c583ee2506.js"/>
+      <file href="pages/659c59ca276d6.js"/>
+      <file href="pages/6579d2d49ebfa.js"/>
+      <file href="pages/6579d2a56ed6c.js"/>
+      <file href="vendor/elucidat-v2.0.min.css"/>
+      <file href="vendor/modernizr-2.6.2.min.js"/>
+      <file href="vendor/mediaelement/controls-wmp.png"/>
+      <file href="vendor/mediaelement/controls-ted.png"/>
+      <file href="vendor/mediaelement/background.png"/>
+      <file href="vendor/mediaelement/bigplay.svg"/>
+      <file href="vendor/mediaelement/controls.png"/>
+      <file href="vendor/mediaelement/loading.gif"/>
+      <file href="vendor/mediaelement/bigplay.png"/>
+      <file href="vendor/mediaelement/mediaelement-and-player.min.js"/>
+      <file href="vendor/mediaelement/controls.svg"/>
+      <file href="vendor/mediaelement/controls-wmp-bg.png"/>
+      <file href="vendor/style-editcontrols.build.min.css"/>
+      <file href="vendor/bootstrap/glyphicons-halflings-white.png"/>
+      <file href="vendor/bootstrap/fontawesome-webfont.ttf"/>
+      <file href="vendor/bootstrap/fontawesome-webfont.svg"/>
+      <file href="vendor/bootstrap/fontawesome-webfont.eot"/>
+      <file href="vendor/bootstrap/glyphicons-halflings.png"/>
+      <file href="vendor/bootstrap/fontawesome-webfont.woff"/>
+      <file href="vendor/bootstrap/fontawesome-webfont.woff2"/>
+      <file href="vendor/fontawesome/icomoon.ttf"/>
+      <file href="vendor/fontawesome/icomoon.eot"/>
+      <file href="vendor/fontawesome/icomoon.svg"/>
+      <file href="vendor/fontawesome/icomoon.woff"/>
+      <file href="vendor/preview_commenting.build.min.js"/>
+      <file href="vendor/material/icomoon.ttf"/>
+      <file href="vendor/material/icomoon.eot"/>
+      <file href="vendor/material/icomoon.svg"/>
+      <file href="vendor/material/icomoon.woff"/>
+      <file href="vendor/elucidat-v5.3.min.js"/>
+      <file href="vendor/placeholder-image.png"/>
+      <file href="vendor/typicon/icomoon.ttf"/>
+      <file href="vendor/typicon/icomoon.eot"/>
+      <file href="vendor/typicon/icomoon.svg"/>
+      <file href="vendor/typicon/icomoon.woff"/>
+      <file href="vendor/jquery.xdr.js"/>
+      <file href="assets/63b0006273f9691f4c98df9b27dd2020.png"/>
+      <file href="assets/54cc4042b2131c3cbc631854715a0224.png"/>
+      <file href="assets/66c34414c69c8.css"/>
+      <file href="assets/9106fb64b50e2e5e1cd8e88bb2e9c768.png"/>
+      <file href="assets/35cb0a04f985a201264ede44ac7b4e01.png"/>
+      <file href="assets/edc3d99afd23e85e93976f690a2c5379.png"/>
+      <file href="assets/18b6787267e90eab0dbdeb1fa340a137.png"/>
+      <file href="assets/6b74e0cc7f4114e0c5b5d934f9697e81.png"/>
+      <file href="assets/1790a8b5edb32e6e5bb51d2dd6a0b392.jpg"/>
+      <file href="assets/d8db84e4eb60b34250fd0192b0e63d46.png"/>
+      <file href="assets/6bb95879b653a4490828c117b65b7f9f.png"/>
+      <file href="assets/66c34414c69c8.js"/>
+      <file href="assets/09ca949225c0200f167c978be9564835.png"/>
+      <file href="assets/501de90eec0f11f41cb1dac3963a97ff.png"/>
+      <file href="assets/6fd64ebd1675f7507feb3e7a23cb78a2.png"/>
+      <file href="assets/c2a800cdb012293f6ba15385d955f630.png"/>
+      <file href="assets/f28a8038bbc18ffbe8f7d41039e4bbd1.png"/>
+      <file href="assets/e7f5f8f654edcfc88d7252a22f7c5553.png"/>
+      <file href="assets/01458155542df1a842917e8fd2f0a3a7.png"/>
+      <file href="assets/5cff632e94885a975f587c6692d35df1.png"/>
+      <file href="assets/5b3dc1c3ef5334872e1c408bcb27d625.png"/>
+      <file href="assets/53d24fa22adf456a5b3c99510bdc1eeb.png"/>
+      <file href="assets/dd295333a3132c16308354d9c6c2a62f.png"/>
+      <file href="assets/94e5abf4fd80aaad2f3371d709f71e75.png"/>
+      <file href="assets/c196d0837a1dc043b5b4f46f348db73d.png"/>
+      <file href="assets/c826c22e9d46606c6d66f7e3f3899e39.png"/>
+      <file href="assets/abc80936127230c28af705bde09a59a2.png"/>
+      <file href="assets/703be7c3a73e9441f0f397d3fa28537c.png"/>
+      <file href="assets/1a7202583b58e55bb3f01e2ca79a95f2.png"/>
+      <file href="assets/6d800a1973d06f372eafa38b017beda5.png"/>
+      <file href="assets/e81aba5237794c6e7afe1d5bd55ab307.png"/>
+      <file href="launch.html"/>
+    </resource>
+  </resources>
+</manifest>
